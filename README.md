@@ -1,7 +1,7 @@
 # My first React app
 App is aim to keep tracking and visualize your expenses yearly
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
